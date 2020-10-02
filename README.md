@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check me out on [Twitter](https://twitter.com/xmalinov)
+
 <!--
 **xmalinov/xmalinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
