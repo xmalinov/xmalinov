@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check me out on [Twitter](https://twitter.com/xmalinov)
+![Twitter Follow](https://img.shields.io/twitter/follow/xmalinov)
 
 <!--
 **xmalinov/xmalinov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
