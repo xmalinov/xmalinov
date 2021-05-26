@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 
+
+![](https://komarev.com/ghpvc/?username=xmalinov)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xmalinov)
 
