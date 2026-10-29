@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Profile views](https://komarev.com)
-![Twitter Follow](https://shields.io)
+![Profile views](https://komarev.com/ghpvc/?username=xmalinov&color=blue)
+![Twitter Follow](https://img.shields.io/twitter/follow/xmalinov?style=social)
 
 ---
 
